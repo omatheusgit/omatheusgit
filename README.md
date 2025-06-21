@@ -29,12 +29,20 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 ---
 
 ### 📊 GitHub Stats:
-<div >
-  <a href="https://github.com/omatheusgit"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height="96" alt="trophy graph" />
-</div>
+</p>
 
 <img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="90%" alt="Snake animation" />
 
@@ -44,7 +52,7 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 ### 🔗 Contact:
 <div>
   <a href="https://www.linkedin.com/in/srmatheus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:matheus.santana2704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:matheus.santana2704@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
 </div>
 
 <br>
