@@ -40,7 +40,7 @@ Actively exploring automation, infrastructure and cloud — always learning and 
   </tr>
 </table>
 
-<p align="right">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height="96" alt="trophy graph" />
 </p>
 
