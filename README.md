@@ -22,7 +22,7 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="right" alt="homeoffice" height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="homeoffice" height="180" width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
   
 </div>
 
