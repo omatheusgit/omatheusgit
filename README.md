@@ -42,7 +42,7 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 </table>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height=90" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height=95" alt="trophy graph" />
 </p>
 
 <img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="86%" alt="Snake animation" />
