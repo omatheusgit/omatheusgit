@@ -29,18 +29,18 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 ---
 
 ### 📊 GitHub Stats:
-<table>
+<table style="border: none">
   <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
+    <td style="border: none">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
     </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
+    <td style="border: none">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
     </td>
   </tr>
 </table>
 
-<p align="left">
+<p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height="96" alt="trophy graph" />
 </p>
 
