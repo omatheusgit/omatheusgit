@@ -36,7 +36,7 @@ Actively exploring automation, infrastructure and cloud — always learning and 
   <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height="96" alt="trophy graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="76%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="100%" alt="Snake animation" />
 
 > *Most of my repositories are still in ninja mode (private) 🥷* 😅
 ---
