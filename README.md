@@ -32,16 +32,16 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 <table style="border: none">
   <tr style="border: none"> 
     <td style="border: none">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
     </td>
     <td style="border: none">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
     </td>
   </tr>
 </table>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height=86" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omatheusgit&theme=darkhub&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0&order=4" height=90" alt="trophy graph" />
 </p>
 
 <img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="86%" alt="Snake animation" />
