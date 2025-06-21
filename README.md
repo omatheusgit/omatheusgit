@@ -22,7 +22,7 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="right" alt="homeoffice" height="180" width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="homeoffice" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
   
 </div>
 
@@ -30,12 +30,12 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 
 ### 📊 GitHub Stats:
 <table style="border: none">
-  <tr>
+  <tr style="border: none"> 
     <td style="border: none">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
     </td>
     <td style="border: none">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
     </td>
   </tr>
 </table>
