@@ -31,8 +31,8 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=omatheusgit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=4.5"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusgit&layout=compact&langs_count=5&theme=github_dark&hide_border=true&order=2"/>
 </p>
 
 <p align="left">
