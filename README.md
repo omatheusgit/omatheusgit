@@ -36,7 +36,6 @@ Actively exploring automation, infrastructure and cloud — always learning and 
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.simpleicons.org/github/FFFFFF">
-<img align="center" alt="GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github">
 
 <!-- Gif divertido -->
 <img align="right" alt="homeoffice" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
