@@ -1,11 +1,11 @@
-## Olá, eu sou o Matheus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" style="vertical-align:middle">
+## Hi there, I'm Matheus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" style="vertical-align:middle">
 
-**SRE & DevOps Engineer de dia ☀️**, e **Entusiasta de Programação à noite 🌙**
+A **SRE & DevOps Engineer by day ☀️**, and a **Programming Enthusiast by night 🌙**
 
-SRE na [Mottu](https://mottu.com.br);<br>
-Explorando ativamente automação, infraestrutura e cloud — sempre aprendendo e compartilhando;<br>
+SRE at [Mottu](https://mottu.com.br);<br>
+Actively exploring automation, infrastructure, Kubernetes and cloud — always learning and sharing;<br>
 
-💬 Pode me chamar para trocar ideia sobre **SRE**, **DevOps**, **automação**, **cloud**, **carreira** e **tecnologia**
+💬 `ping` me about **SRE**, **DevOps**, **automation**, **cloud**, **career**, **tech life**
 
 ---
 
@@ -48,10 +48,10 @@ Explorando ativamente automação, infraestrutura e cloud — sempre aprendendo 
 
 <img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="90%" alt="Snake animation" />
 
-> *A maioria dos meus repositórios ainda está em modo ninja (privado) 🥷* 😅
+> *Most of my repositories are still in ninja mode (private) 🥷* 😅
 ---
 
-#### 🔗 Contato:
+#### 🔗 Contact:
 <div>
   <a href="https://www.linkedin.com/in/srmatheus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:matheus.santana2704@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square"></a>
