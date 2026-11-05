@@ -1,59 +1,64 @@
-<div align="center">
+## Olá, eu sou o Matheus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" style="vertical-align:middle">
 
-# Matheus Santana Rafael (`@omatheusgit`)
+**SRE & DevOps Engineer de dia ☀️**, e **Entusiasta de Programação à noite 🌙**
 
-### **Site Reliability Engineer (SRE) & DevOps / Platform Engineer**
-**Multi-Cloud (GCP & AWS) • Kubernetes • Terraform & Ansible • CI/CD & GitOps • Observability & FinOps**
+SRE na [Mottu](https://mottu.com.br);<br>
+Explorando ativamente automação, infraestrutura e cloud — sempre aprendendo e compartilhando;<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srmatheus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srmatheus/)
-[![Gmail](https://img.shields.io/badge/Email-matheus.santana2704%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.santana2704@gmail.com)
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/srmatheus/)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=omatheusgit.omatheusgit)
+💬 Pode me chamar para trocar ideia sobre **SRE**, **DevOps**, **automação**, **cloud**, **carreira** e **tecnologia**
 
+---
+
+### 🛠️ Tech Stack:
+<div align="left" style="display: inline_block">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,python,linux,postgres,git,gitlab,github" />
+
+<!-- Cloud & IaC -->
+<!-- <img align="center" alt="AWS" height="30" width="40" src="https://skillicons.dev/icons?i=aws">
+<img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+<img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+<img align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> -->
+
+<!-- Containers & Orquestração -->
+<!-- <img align="center" alt="Docker" height="30" width="40" src="https://cdn.simpleicons.org/docker/2496ED">
+<img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> -->
+
+<!-- Linguagem & SO -->
+<!-- <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> -->
+
+<!-- Banco de Dados -->
+<!-- <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> -->
+
+<!-- Versionamento -->
+<!-- <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.simpleicons.org/github/FFFFFF"> -->
+
+<!-- Gif divertido -->
+<img align="right" alt="homeoffice" height="150" width="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+  
 </div>
 
 ---
+<br>
 
-## ⚡ About Me
+### 📊 GitHub Stats:
 
-- 🔭 **Current Role:** **Site Reliability Engineer (SRE)** at **[Mottu](https://mottu.com.br)** — designing resilient cloud-native infrastructure on **Google Cloud Platform (GCP)**, **Kubernetes**, and **GitHub Actions** with DevSecOps & FinOps guardrails.
-- 🏥 **Previous Experience:** **DevOps Engineer** at **[Wareline](https://www.wareline.com.br)** — led legacy-to-cloud modernization for 130+ healthcare institutions across **AWS**, **Kubernetes**, **Docker Swarm**, **GitLab CI**, and **PostgreSQL** (`pg_upgrade` automation across hundreds of production databases).
-- 🛠️ **Core Focus:** High-availability Kubernetes clusters, Infrastructure as Code (**Terraform**, **Ansible**), GitOps (**FluxCD**, **ArgoCD**), Observability (**Prometheus**, **Grafana**, **Loki**), and AI-augmented developer tooling.
+<img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="90%" alt="Snake animation" />
 
+> *A maioria dos meus repositórios ainda está em modo ninja (privado) 🥷* 😅
 ---
 
-## 🚀 Featured Open-Source Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[🩺 `wsl-doctor`](https://github.com/omatheusgit/wsl-doctor)** | Diagnostic, benchmark & auto-tuning CLI for **WSL2**, **Windows Wi-Fi/DNS**, and **AI Coding Agents** (TCP BBR, `.wslconfig` memory calculator, VHDX compaction, DNS latency benchmark). | `Python` `PowerShell` `Linux Kernel` `WSL2` |
-| **[📊 `agent-statusline`](https://github.com/omatheusgit/agent-statusline)** | Ultra-low-latency (`~60ms`) single-pass statusline for **Claude Code** & **Google Antigravity CLI** with live context-window progress bar, 5h/7d rate-limit gauges, and Git dirty metrics. | `Bash` `Node.js` `jq` `GitHub Actions` |
-| **[🔔 `wsl-claude-notify`](https://github.com/omatheusgit/wsl-claude-notify)** | Native Windows Toast notifications & audio alerts for AI coding agents running inside WSL2. | `PowerShell` `Bash` `WSL2` |
-| **[🐘 `pg_upgrade`](https://github.com/omatheusgit/pg_upgrade)** | Battle-tested automation toolkit for zero-data-loss PostgreSQL major version upgrades in mission-critical environments. | `PostgreSQL` `Bash` `Linux` |
-| **[💻 `bashrc-devops`](https://github.com/omatheusgit/bashrc-devops)** | Opinionated shell productivity suite, Kubernetes/Docker/Git aliases, and fast navigation helpers for SRE & DevOps engineers. | `Bash` `Kubernetes` `Docker` |
-
----
-
-## 🛠️ Technology Stack & Core Competencies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,ansible,githubactions,gitlab,prometheus,grafana,python,bash,linux,postgres,git&perline=8" alt="Tech Stack" />
-
+#### 🔗 Contato:
+<div>
+  <a href="https://www.linkedin.com/in/srmatheus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:matheus.santana2704@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat-square"></a>
 </div>
 
-| Domain | Technologies & Practices |
-| :--- | :--- |
-| **Cloud & Infrastructure** | Google Cloud Platform (GCP), Amazon Web Services (AWS EC2, S3, IAM, VPC, Route53), Linux (Ubuntu, Debian, RHEL) |
-| **Containers & GitOps** | Kubernetes (GKE, EKS, K3s), Docker, Docker Swarm, Helm, Kustomize, FluxCD, Traefik, NGINX |
-| **IaC & CI/CD** | Terraform, Ansible, GitHub Actions, GitLab CI/CD, Jenkins, DevSecOps (Trivy, Gitleaks, ShellCheck) |
-| **Observability & SRE** | Prometheus, Grafana, Alertmanager, SLIs/SLOs, Incident Response, Chaos Engineering, Cloud FinOps |
-| **Databases & Scripting** | PostgreSQL (`pg_upgrade`, tuning, backups), Python, Bash / POSIX Shell, PowerShell |
-
----
-
-## 📈 Contribution Activity
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/omatheusgit/omatheusgit/output/snake.svg" width="95%" alt="Contribution Snake" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omatheusgit.omatheusgit&"  />
 </div>
